@@ -2,5 +2,6 @@ This is whatsapp code
 
 1. Profile page code.
 2. Chat screen code.
-3. Last seen code on the top.
+3. Last seen code.
 4. Attachments (images, audios and videos) code.
+5. Hide last seen code
