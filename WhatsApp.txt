@@ -5,3 +5,5 @@ This is whatsapp code
 3. Last seen code.
 4. Attachments (images, audios and videos) code.
 5. Hide last seen code
+6. Add video call feature.
+7. Add audio call feature.
